@@ -1,0 +1,71 @@
+* {
+  background-color: rgb(217, 238, 238);
+}
+#header {
+  text-align: center;
+  color: rgb(15, 15, 15);
+}
+
+li {
+  margin-top: 8px;
+}
+.font {
+  font-style: italic;
+}
+.main .ul {
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+}
+.tex{
+    text-align: right;
+    color: rgb(49, 5, 5);
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.li01 {
+  color: rgb(179, 10, 10);
+}
+.li02 {
+  color: rgb(199, 7, 7);
+}
+.li03 {
+  color: rgb(180, 7, 7);
+}
+.li04 {
+  color: rgb(170, 7, 7);
+}
+.li05 {
+  color: rgb(160, 7, 7);
+}
+.li06 {
+  color: rgb(150, 7, 7);
+}
+.li07 {
+  color: rgb(140, 7, 7);
+}
+.li08 {
+  color: rgb(140, 7, 7);
+}
